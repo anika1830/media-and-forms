@@ -1,0 +1,22 @@
+                                                                   Media and Forms 
+                                                                        Assignment
+
+Ques:1 Create an image gallery that holds multiple images.
+Ans:1 input:-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Media and Forms</title>
+</head>
+<body>
+<img src="https://dummyimage.com/400x400" alt="Dummy image">
+<img src="https://dummyimage.com/500x500" alt="Dummy image">
+<img src="https://dummyimage.com/400x500" alt="Dummy image">
+<img src="https://dummyimage.com/600x500" alt="Dummy image">
+<img src="https://dummyimage.com/400x400" alt="Dummy image">
+<img src="https://dummyimage.com/600x400" alt="Dummy image">
+<img src="https://dummyimage.com/900x700" alt="Dummy image">
+</body>
+</html>
